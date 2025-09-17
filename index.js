@@ -153,7 +153,7 @@ const app = express();
 const server1 = http.createServer(app);
 
 app.use(express.json());
-app.use(cors({ origin: ["http://localhost:3000", "*"] }));
+app.use(cors({ origin: [process.env.PROD_URL, "*"] }));
 
 // ---------- Chat Endpoint ----------
 app.post("/chat", async (req, res) => {
@@ -256,7 +256,7 @@ ${question}
 // attach Socket.IO to the HTTP server
 const io = new Server(server1, {
   cors: {
-    origin: "http://localhost:3000",
+    origin: process.env.PROD_URL,
     credentials: true,
   },
 });
