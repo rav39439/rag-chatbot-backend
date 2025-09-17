@@ -1,0 +1,97 @@
+Optimism about the potential for India’s economic growth has
+grown steadily in recent years. In part, this is fueled by China’s
+example of strong sustained growth, raising the obvious question of why
+India cannot do as well. However, the optimism also reflects the fact that
+India’s growth has accelerated over the past two decades. And while still
+well below the growth rate in China, this favorable performance contrasts
+with growth slowdowns in other regions. It has also enabled the emergence
+of a significant middle class in India. Interestingly, India’s economic performance has differed from that of China and other parts of Asia in at least
+two dimensions. First, India’s success has not been based on strong growth
+in the manufacturing sector and in exports. Instead, it has reflected very
+rapid expansion of the service-producing industries. Second, it has been
+associated with relatively modest levels of investment. Even incorporating
+recent data revisions, India’s physical capital accumulation has not been
+impressive. And despite substantial increases in the number of Indians
+attaining higher education, illiteracy rates remain high.
+In this paper, we build on a growth accounting framework to empirically
+examine these dimensions of India’s recent growth. How has the growth
+been distributed among agriculture, industry, and the service-producing
+sectors? What are the major contributors to that growth: increased employment, physical capital, educational attainment, or improvements in
+the basic efficiency of resource use (total factor productivity)? We are particularly interested in the sources of growth in the service-producing
+industries. Is it sustainable or should India place greater emphasis on
+the manufacturing sector and the promotion of rapid growth in export
+markets? Throughout the analysis, we are concerned about the quality of
+the available statistical data.
+
+growth accounting framework, combined with our emphasis on data issues,
+pulls together concerns that have typically been treated separately, and that
+do not appear to have been consistently recognized. Our updated growth
+accounts are based on extensive examination of the relevant underlying
+data series, enabling us to clarify a number of issues related to how the data
+are constructed. The updated accounts incorporate recent data revisions,
+some of which are quite large. They also provide new estimates for the
+contributions to overall growth from changes in labor productivity within
+major economic sectors versus the gains from reallocating labor and capital
+among the sectors. Furthermore, we have examined a variety of additional
+data in our analysis of the role of capital accumulation—providing estimates
+of the returns to schooling for human capital, and reporting on trends in
+sectoral saving and investment in physical capital.
+The existing literature on productivity in India focuses either on the performance of the aggregate economy or manufacturing, the latter at the
+industry or firm level. But understanding India’s evolving transformation
+from a primarily rural and agricultural economy to a more modern one requires analysis of both the evolution of productivity in all three key sectors—
+agriculture, industry and services—and the implications for aggregate productivity growth of the reallocation of resources out of agriculture to more
+productive activities in industry and services. This is particularly essential
+for India where, in contrast with the typical pattern in East Asia (including
+China), the primary driver for growth has been services, not industry.
+
+
+Our paper fills this important gap by separating aggregate productivity
+growth into growth for each of the major sectors of the economy and by
+providing an estimate of the growth effects of factor reallocation among
+sectors. A key finding of the paper is that services have shown very substantial productivity growth since the early 1980s—a result in sharp contrast to that obtained for other countries at a similar stage of development.
+Productivity gains in agriculture and industry have been modest, which
+is consistent with both the findings of prior studies of India and those for
+other comparable countries such as Korea and Taiwan in the 1960s and
+1970s. What distinguishes the Indian case is the relatively small output
+growth in industry. As a result, the sector has not played a major role in
+reallocating workers out of agriculture where they are underutilized.
+We argue that the emphasis on business services as the driving force
+behind the expansion of the Indian economy is frequently overstated.
+Despite its extraordinary growth, the industry comprises only a small share
+of India’s GDP and overall employment. In addition, business services
+provide jobs primarily for the relatively small proportion of the workforce
+that is highly educated. We find some evidence that the current emphasis
+on high-skill services is already encountering some shortages—a bidding
+up of the relative wage rate for secondary and university-level graduates.
+Furthermore, high rates of total factor productivity (TFP) growth in the
+overall services sector, which includes such industries as trade, transportation and education where we would not expect to observe rapid TFP growth,
+raise concerns that growth of the sector may be overstated in the statistics.
+In any case, India’s growth expansion is not creating adequate job growth
+for the bulk of the population that is not particularly well-educated. Thus,
+it is important that India broaden the base of the current expansion by promoting programs that would increase India’s attractiveness as a source of
+manufactured goods for the world market. The growth of the manufacturing
+sector would provide a strong match for the skills of the Indian workforce.
+The paper also offers a discussion of two additional subjects that have
+an important bearing on growth and productivity: education and physical
+investment. On the former, we provide an empirical analysis of the returns
+to different levels of schooling in India. While we do find a high average
+return, our results suggest that returns are relatively low at the elementary
+levels. This is surprising compared to the results for other developing countries, and a cause for concern, given the large share of the population with
+little education. As we illustrate, the Indian workforce is not particularly
+well-educated. Illiteracy rates are high by international standards, even
+among the young, and we find evidence of shortages among the group of
+highly-educated workers (university graduates) who have done so well in
+recent years. India also faces significant challenges in the quality of the
+educational system. Thus, India needs to expand the supply of well-educated
+workers at the same time that it increases the demand for workers with
+more modest skills.
+
+
+
+
+
+
+
+
+
+

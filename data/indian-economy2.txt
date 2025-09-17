@@ -1,0 +1,125 @@
+Although empirical research on productivity growth has used a variety of
+methodologies, most of the analysis has evolved along two primary paths:
+growth accounting or direct econometric estimation. Both are based on the
+underlying concept of an aggregate production function. Growth accounting combines the production function with the assumption of competitive
+markets, leading to the use of income shares to measure the contribution of
+factor inputs. This method focuses on identifying contributions of individual
+factor inputs and a residual, typically called total factor productivity (TFP).
+In contrast, the econometric approach focuses on exploring alternative functional forms for the production function, and does not rely on any assumption
+that markets are competitive.
+Most empirical studies have tended to emphasize what might be labeled
+the proximate causes of growth: measuring the quantity and quality of capital
+and labor inputs, and viewing the TFP residual as representing a combination
+of changes in efficiency and the production technology. More recently, some
+researchers have sought to go beyond proximate causes, so as to associate
+the fundamental sources of long-term differences in living standards with
+underlying differences in institutional and legal arrangements and geography. In these studies, TFP is perceived as the driving force behind growth.
+Accumulation of both physical capital and labor skills is taken to be largely
+endogenous—and ultimately induced by changes in TFP. From this perspective, developing a theory of TFP is a central objective.2
+
+Building from the seminal work by Solow (1957), modern productivity
+analysis begins with the concept of an aggregate production function.
+
+The alternative, which we follow here, is to adjust for skill differences
+using a simple index of educational attainment. For example, an index of
+the form:
+(5) L*
+ = e as L
+assumes that each year of schooling, s, raises the average worker’s productivity by a constant percentage, a. This formulation parallels the vast
+number of empirical studies that use “Mincer regressions” to measure the
+relationship between wages and years of schooling. Such studies have
+been carried out for different time periods and for a large number of countries around the world, typically finding a return to each additional year of
+education in the range of 7 to 12 percent.4
+Finally, we would also like to adjust the measure of the capital input for
+variations in the flow of capital services associated with capital of different
+service lives. The rapid pace of innovation and economic obsolescence of
+high-tech capital makes this an issue of growing importance. Unfortunately,
+few countries have sufficiently detailed information to make these types of
+compositional adjustments to their capital inputs measure—and India is no
+exception. The data constraints are particularly acute at the level of individual
+industries. Instead, an estimate of the capital stock is commonly used as an
+index of the growth in capital services.5
+Using this framework, we estimate a set of growth accounts over the
+period 1960–61 to 2004–05, for the total economy and the three major
+sectors—agriculture, industry and services—as well as for manufacturing.6
+We have excluded residential housing from services and the total economy
+because income from housing is based solely on imputations, and is all
+assigned to capital income. As described more fully below, the output and
+capital stock data are from the national accounts. These reflect the significance
+cant revisions associated with the adoption of the new 1999–2000 base.
+Estimates of employment are based on results from the quinquennial
+household surveys.
+
+The Indian statistical agencies face substantial challenges in preparing
+measures of output and employment at both the aggregate and sector levels.
+The difficulties arise primarily because a large portion of the nonagricultural
+workforce operates outside of standard reporting programs. Furthermore,
+India’s national accounts are highly dependent on a series of quinquennial
+surveys for information on households and small enterprises. Therefore,
+annual estimates of output and employment (as well as estimates at higher
+frequencies), are largely based on simple interpolations and extrapolations
+of underlying source data. We have relied heavily on the comprehensive
+analysis of Sivasubramonian (2004) for the development of the requisite
+data at the level of the total economy. We have extended his analysis by
+incorporating recent revisions of the national accounts and by developing
+comparable growth accounts for the major sub-sectors of the Indian economy
+(agriculture, industry, manufacturing, and services). We have also incorporated an alternative methodology, explained above, to estimate the contribution of improvements in the educational attainment of the workforce.
+In the remainder of this section, we discuss the data used to construct
+growth accounts for India. Output measures are considered first, followed
+by each of the factor inputs and, finally, measures of factor shares. Along
+the way, we summarize key data concerns and their implications.
+OUTPUT. India has a reasonably good statistical system for measuring
+output of the agricultural sector and output of non-agricultural enterprises
+that participate in government reporting programs, and are classified as
+part of the organized sector.7
+ For example, this includes factories registered
+under the 1948 Factories Act, as well as large portions of mining, utilities,
+communications and finance. For these enterprises, it is possible to construct estimates of value added for national accounts, using either the production approach or the income approach. Furthermore, original source data
+are often available annually.
+
+GDP by major industry, as well as the share of output in each industry produced in the organized versus the unorganized sectors.8
+ The final column
+shows the percent of employment that is unorganized in each sector.9
+Within the nonagricultural economy, for example, 44 percent of the GDP
+was in the unorganized sector, while it accounted for 88 percent of total
+employment.
+For the unorganized sector, Indian measures of GDP are constructed
+using the labor input method. Thus, estimates of labor input at the industry level are combined with measures of value added per worker (VAPW)
+from a variety of enterprise surveys. Labor input in the unorganized sector is estimated as the residual difference between measures of total labor
+input and labor input in the organized sector. The latter is obtained from
+employer reports, while the total labor input measure is constructed from
+the quinquennial household survey. In this context, it is important to note
+that labor input is defined in terms of the number of jobs, not the number
+of workers. Since the objective is to obtain an employment measure equivalent to the one that employers would report (inclusive of multiple job
+holding), the number of workers reporting a principal employment activity
+over the prior year is added to the number of workers reporting a subsidiary
+employment activity. Each worker could be recorded as having up to two
+jobs. No adjustment is made for full versus part-time work for either primary
+or secondary jobs.10
+The techniques described above should generate reasonably good estimates of output in the benchmark years for which survey data are available.
+However, India has no consistent source of information about employment
+in the unorganized sector for the years between the quinquennial surveys
+
+Annual information on value added per worker is equally limited, since the
+value-added data are also updated on an approximate 5-year cycle. Therefore, detailed calculations of output using the labor input method can only
+be undertaken for benchmark years. Estimates of value added for the years
+between benchmarks are obtained by interpolation. Estimates for years
+since the most recent benchmark are obtained by extrapolating the labor
+inputs, based on growth between the two most recent benchmarks.
+Table 2 provides a stark illustration of the problems created by the lack
+of underlying annual survey data for the unorganized portions of the economy. The first column shows the sector composition of GDP, using the
+1993–94 benchmark revision. The next two columns show two estimates
+of 1993–94 GDP—one using the 1980–81 benchmark and the other from the
+revised data. Column 4 shows the percentage difference between the two.
+The revisions to 1993–94 GDP were substantial, raising the estimate of
+total GDP by fully 9 percent. In part, the sizable revisions that accompanied
+the shift to the 1993–94 base reflect the fact that it had been so many years
+since the introduction of the 1980–81 base. But it is important to point out
+that the revisions are quite small for those industries that are largely in the
+organized sector and for which annual sources of information are available.
+In contrast, the necessity of relying on the labor input methodology and
+past rates of change to extrapolate output resulted in particularly large output revisions in the service-producing industries (15 percent, on average).
+Output for the category that includes business services was revised upwards by 103 percent. The lack of good output data for the service industry
+is a problem in all countries. It is of particular importance for India because
+of the prominent role that services are expected to play in the country’s
+future growth.

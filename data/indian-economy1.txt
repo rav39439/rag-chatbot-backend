@@ -1,0 +1,43 @@
+On savings and investment, we assess the quality of various estimates
+offered by the Central Statistical Organization (CSO) and argue that the
+overall rate of saving has expanded substantially in recent years. Furthermore, we conclude that the supply of private saving in India is adequate to
+support a significantly higher rate of growth in future years. From the perspective of physical capital formation, the problems are more concentrated
+in the extreme dissaving of the public sector and the apparent weakness of
+investment incentives on the demand side.
+There is already an extensive empirical literature—often using growth
+accounts—that examine India’s past economic growth. Many of the studies
+address one or more of the following topics. First, a number of analysts
+have focused on characterizing India’s economic performance at the most
+aggregate level. While there is concurrence on the fact that the growth
+improved during the past quarter century, researchers have reached varying conclusions on some issues such as the timing and precise magnitude
+of this acceleration, and the relative importance of changes in domestic
+policy. For example, Virmani (1997), Rodrik and Subramanian (2005) and
+Kohli (2006a and b) point out that growth initially accelerated during the
+1980s, predating the reforms that followed the crisis of the early 1990s.
+Within this context, Rodrik-Subramanian and Kohli both stress the role of
+what they term “pro-business” reforms that began in the early 1980s. In contrast, Srinivasan (2003b) and Panagariya (2004) argue that India’s growth
+did accelerate prior to the more substantial liberalizations in the 1990s, but
+that this was concentrated in 1988–91 following some initial liberalizations
+and furthermore, that it was driven by unsustainable increases in public expenditures and excessive foreign borrowing, thus culminating in the balance
+of payments crisis of 1991. There are on-going discussions over the extent
+to which the current growth can be maintained and various means by which
+it might be increased.
+Second, analysts have examined the behavior of particular sectors.
+A number of authors have studied productivity in manufacturing—reaching
+a wide range of conflicting conclusions. However, as explained in detail by
+Goldar and Mitra (2002), differences in the findings can be largely attributed
+to a variety of measurement issues, such as the use of single versus double
+deflation to construct estimates of real growth in manufacturing value added.
+Goldar (2004) provides a careful recent update showing that TFP growth
+in manufacturing appears to have slowed in the post reform period; raising additional puzzles discussed below.1
+ However, due to difficulties in
+measuring employment within individual industries, our analysis focuses
+primarily on the broader industrial sector. Additional studies that focus on
+
+the performance of agriculture and India’s services sector are discussed in
+later sections of this paper.
+Thus, this paper is comprised of four remaining sections. The next section details the construction of growth accounts for India, with considerable
+attention paid to the quality of the underlying data. The section following it
+presents and discusses the results. Section three examines a range of issues
+related to the role of capital accumulation in India’s growth experience.
+It focuses first on human capital and then turns to an analysis of investment
